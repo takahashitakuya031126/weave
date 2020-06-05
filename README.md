@@ -1,2 +1,2 @@
 # weave
-WordPress Theme
+WordPress Original Theme
