@@ -1,2 +1,1 @@
-# weave
-WordPress Original Theme
+ブログ型のWordPressオリジナルテーマです。
